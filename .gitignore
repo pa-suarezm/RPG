@@ -4,3 +4,5 @@ obj/
 Packages/
 Temp/
 .vs/
+Assembly-CSharp.csproj
+RPG.sln
